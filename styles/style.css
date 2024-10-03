@@ -73,9 +73,9 @@ div.logo {
 }
 
 .partner {
-    background-color: #d6d6d6;
+    background-color: #E0E0E0;
     border-radius: 5px;
-    color: #000000;
+    color: #333333;
     flex-grow: 1;
     margin: 10px;
 }
@@ -91,7 +91,7 @@ div.logo {
 .partner a {
     font-size: 18px;
     margin-right: 15px;
-    color: #333131;
+    color: #333333;
 
 }
 
